@@ -209,20 +209,7 @@ Stored in the `results/` folder:
 > **“User 11203 shows declining usage over six weeks, reduced transaction frequency, and multiple failed logins. Predicted churn probability: 0.86. This pattern aligns with high‑risk churn segments in the training set.”**
 
 ---
-
-## 13. National Interest Alignment (EB-2 NIW)
-
-This project supports the national interest because it:
-
-- Strengthens digital financial infrastructure  
-- Enables proactive churn mitigation in U.S. FinTech platforms  
-- Improves stability in mobile money ecosystems  
-- Advances deep learning applications for consumer financial protection  
-- Demonstrates expertise in mission-critical AI for the U.S. digital economy  
-
----
-
-## 14. Future Enhancements
+## 13. Future Enhancements
 
 - Transformer models (e.g., BERT4Rec, Longformer)  
 - Explainability methods (SHAP for LSTMs)  
