@@ -176,7 +176,7 @@ print(response)
 
 ---
 
-## 11. Technologies Used:
+## 11. Technologies Used
 
 - Hugging Face Transformers  
 - LangChain RAG Framework  
