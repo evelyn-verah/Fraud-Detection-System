@@ -1,21 +1,18 @@
-# Customer Churn Prediction for Mobile Money Platforms  
+# Machine Learning Customer Churn Prediction for Mobile Money Platforms  
 **Deep Learning with LSTMs & Sequential Behavior Modeling**
 
 Author: **Everlyn Musembi**  
-Exhibit **3.14 – Customer Churn Prediction Project Results**
 
 ---
 
 ## 1. Project Overview
-This project predicts customer churn for **mobile money platforms** using deep learning on sequential user behavior.  
+This project predicts customer churn for **mobile money platforms** using deep learning models on sequential user behavior.  
 It demonstrates:
 
 - Design and implementation of **RNNs** and **LSTMs** for sequential financial data  
 - **Time-series feature engineering** for transaction logs  
 - Modeling **user churn risk** to support strategic retention decisions  
-- Practical production-ready workflow for FinTech companies  
-
-This work is referenced in my **EB-2 NIW petition** as *Exhibit 3.14: Customer Churn Prediction Project Results*.
+- Practical production-ready workflow for FinTech companies.
 
 ---
 
@@ -233,9 +230,4 @@ This project supports the national interest because it:
 - Integration with customer engagement pipelines  
 
 ---
-
-## 15. Contact
-
-**Everlyn Musembi**  
-Machine Learning & FinTech Security  
-LinkedIn: _[add your link]_  
+ 
