@@ -16,8 +16,6 @@ This project implements an **AI-powered fraud detection system** that combines:
 
 The goal is to create a **production-ready prototype** for securing **mobile money and digital financial transactions**, directly aligned with financial security, cybersecurity, and FinTech innovation.
 
-This work supports my **EB-2 National Interest Waiver (NIW)** petition as **Exhibit 3.13: Fraud Detection System Documentation**.
-
 ---
 
 ## 2. Motivation & Problem Statement
@@ -198,4 +196,4 @@ Technologies used:
 
 **Everlyn Musembi**  
 Data Science & Machine Learning for FinTech Security  
-LinkedIn: _[add your link]_  
+LinkedIn: [https://www.linkedin.com/in/evelyn-nzilani-engineer1/]
