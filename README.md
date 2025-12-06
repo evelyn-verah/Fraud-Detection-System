@@ -191,7 +191,7 @@ model.add(Dense(1, activation='sigmoid'))
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 ```
 
-## 12. Evaluation Visuals
+## 11. Evaluation Visuals
 
 Stored in the `results/` folder:
 
@@ -213,10 +213,10 @@ The churn risk heatmap highlights behavior patterns across user segments over ti
 **“User 11203 shows declining usage over six weeks, reduced transaction frequency, and multiple failed logins. Predicted churn probability: 0.86. This pattern aligns with high‑risk churn segments in the training set.”**
 
 ---
-## 11. Architecture Diagram
+## 13. Architecture Diagram
 <img src="results/architecture_diagram_with_boxes.png" width="600" alt="Customer Churn Architecture Diagram">
 
-## 13. Future Enhancements
+## 14. Future Enhancements
 
 - Transformer models (e.g., BERT4Rec, Longformer)  
 - Explainability methods (SHAP for LSTMs)  
