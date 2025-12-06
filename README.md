@@ -178,8 +178,6 @@ print(response)
 
 ## 11. Technologies Used:
 
-Technologies used:
-
 - Hugging Face Transformers  
 - LangChain RAG Framework  
 - SentenceTransformers  
