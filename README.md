@@ -176,11 +176,7 @@ print(response)
 
 ---
 
-## 11. Citations & Exhibits
-
-This repository supports my EB-2 NIW petition as:
-
-- **Exhibit 3.13 – Fraud Detection System with RAG Implementation**
+## 11. Technologies Used:
 
 Technologies used:
 
