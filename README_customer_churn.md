@@ -191,24 +191,31 @@ model.add(Dense(1, activation='sigmoid'))
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 ```
 
----
-
-## 11. Evaluation Visuals
+## 12. Evaluation Visuals
 
 Stored in the `results/` folder:
 
-- **confusion_matrix.png**
-- **roc_curve.png**
-- **churn_risk_heatmap.png**
-- **architecture_diagram.png**
+### Confusion Matrix
+<img src="results/confusion_matrix.png" width="700" alt="Confusion matrix for churn model">
 
----
+**Summary:**  
+The confusion matrix shows that the model accurately distinguishes between churners and non-churners, correctly identifying most loyal users (220) and a substantial portion of churners (65). This demonstrates strong predictive performance and reliable classification for real-world retention strategies.
+
+
+### Churn Risk Heatmap
+<img src="results/churn_risk_heatmap.png" width="700" alt="Churn risk heatmap by segment/time">
+
+**Summary:**
+The churn risk heatmap highlights behavior patterns across user segments over time, revealing periods and groups with increased likelihood of churn. These insights enable targeted retention actions and support proactive customer engagement.
 
 ## 12. Sample Model Interpretation Output
 
-> **“User 11203 shows declining usage over six weeks, reduced transaction frequency, and multiple failed logins. Predicted churn probability: 0.86. This pattern aligns with high‑risk churn segments in the training set.”**
+**“User 11203 shows declining usage over six weeks, reduced transaction frequency, and multiple failed logins. Predicted churn probability: 0.86. This pattern aligns with high‑risk churn segments in the training set.”**
 
 ---
+## 11. Architecture Diagram
+<img src="results/architecture_diagram_with_boxes.png" width="600" alt="Customer Churn Architecture Diagram">
+
 ## 13. Future Enhancements
 
 - Transformer models (e.g., BERT4Rec, Longformer)  
